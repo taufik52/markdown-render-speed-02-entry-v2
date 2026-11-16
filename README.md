@@ -1,5 +1,11 @@
 # SpeedyMark — fast CommonMark renderer
 
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/taufik52/markdown-render-speed-02-entry-v2/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/taufik52/markdown-render-speed-02-entry-v2/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
+Built for the [make.fun bounty "Make Markdown rendering faster"](https://make.fun/bounty/markdown-render-speed-02).
+
 A dependency-free, single-pass CommonMark 0.31.2 + GFM 0.29 renderer written
 for the make.fun competition "Make Markdown rendering faster"
 (markdown-render-speed-02).
